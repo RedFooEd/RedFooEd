@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🏆 Achievements
 ### 🧠 Codewars
 
 ![Codewars](https://www.codewars.com/users/RedFooEd/badges/large)
